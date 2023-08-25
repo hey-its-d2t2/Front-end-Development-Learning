@@ -10,4 +10,6 @@ Day -2
 -------------------
 ![Navigation -1 ](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/c0314e14-6338-4683-a8fe-93a33bf2882d)
 
-![Navbar-2](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/6b670ab8-90b0-48d9-83b2-87cad13c00a4)
+https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/28936f20-f4d9-459a-b26c-ca44381d473a
+
+
