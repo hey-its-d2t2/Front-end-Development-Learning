@@ -23,3 +23,4 @@ Day -4
 Day -5
 -------------------
 ![Colored Markers - ](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/cd977f3a-0eae-44fc-971a-b7e79147f72d)
+![Registration Form ](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/2d926fb7-d1ce-4c38-a4f3-1e40181371ff)
