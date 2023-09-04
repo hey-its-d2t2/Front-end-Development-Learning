@@ -19,3 +19,7 @@ Day -3
 Day -4
 -------------------
 ![Cafe Menu](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/738de463-7917-4e95-ac2d-c2b77b082488)
+------------------
+Day -5
+-------------------
+![Colored Markers - ](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/cd977f3a-0eae-44fc-971a-b7e79147f72d)
