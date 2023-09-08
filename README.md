@@ -28,3 +28,13 @@ Day - 5
 ![Colored Markers - ](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/cd977f3a-0eae-44fc-971a-b7e79147f72d)
 ****************************************************************************
 ![Registration Form ](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/2d926fb7-d1ce-4c38-a4f3-1e40181371ff)
+
+<hr><br>Day - 6<hr><br>
+<h5>Project - 1</h5>
+
+![Rothko Painting - ](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/d7e00290-f456-4800-b3ab-db28d467b87b)
+
+<h5>Project - 2</h5>
+
+![Photo Gallery](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/b93bfb7b-faf8-4b79-9152-5aff10dd8887)
+
