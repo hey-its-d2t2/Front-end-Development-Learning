@@ -29,7 +29,7 @@ Day - 5
 ****************************************************************************
 ![Registration Form ](https://github.com/Deepak02-singh/Front-end-Development-Learning/assets/63626210/2d926fb7-d1ce-4c38-a4f3-1e40181371ff)
 
-<hr><br>Day - 6<hr><br>
+<hr><h3>Day - 6<h3></h3><hr>
 <h5>Project - 1</h5>
 
 ![Rothko Painting - ](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/d7e00290-f456-4800-b3ab-db28d467b87b)
