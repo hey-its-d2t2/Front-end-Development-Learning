@@ -44,7 +44,7 @@ Day - 5
   
 ![Nutrition Label](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/c993750b-54c2-442e-a971-97ee35fb11c0)
 
-<h5>Project - 1</h5>
+<h5>Project - 2</h5>
 
 ![Accessibility Quiz ](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/7e235a58-fead-4132-950b-bace1e7f9e7d)
 
