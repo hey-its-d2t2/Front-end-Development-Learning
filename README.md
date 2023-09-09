@@ -38,3 +38,10 @@ Day - 5
 
 ![Photo Gallery](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/b93bfb7b-faf8-4b79-9152-5aff10dd8887)
 
+
+<hr>
+<h3>Day - 7<h3></h3><hr>
+<h5>Project - 1</h5>
+  
+![Nutrition Label](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/c993750b-54c2-442e-a971-97ee35fb11c0)
+
