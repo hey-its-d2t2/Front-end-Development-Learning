@@ -1,6 +1,6 @@
 # Front-end-Development-Learning
 
-Self placed 100 days of frontend development learning....
+Self-placed 100 days of frontend development learning...
 ------------------
 Day - 1
 -------------------
@@ -48,5 +48,7 @@ Day - 5
 
 ![Accessibility Quiz ](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/7e235a58-fead-4132-950b-bace1e7f9e7d)
 
+<hr>
+<h3>Day - 8<h3></h3><hr>
 
-
+![Preview-My-website](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/a325a388-ffe4-4eff-a2d9-bc12068f2ab5)
