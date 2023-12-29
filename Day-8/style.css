@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header
+{
+    display: flex;
+    background-color: white;
+    height: 70px;
+    width: 100%;
+}
+
+.logo img{
+    height:100%;
+    width:160px;
+    margin: 10px;
+}
+#navbar {
+    width: 100%;
+    height: 100%;
+    text-align: end;
+}
+
+#navbar ul li{
+    text-decoration: none;
+    display: inline;
+    font-size: 22px;
+    padding:16px;
+    text-align: center;
+    cursor: hand;
+}
+#navbar ul li:hover{
+    background-color: rgb(255, 119, 0);
+}
+
+#hero{
+    width: 100%;
+}
+
+h1{
+    text-align: center;
+}
+#hero img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+}
+
+#about{
+    display: flex;
+    flex-direction: row;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+#description{
+    width: 50%;
+    text-align: left;
+}
+
+#b-image
+{
+    width: 50%;
+    height: 500px;
+    object-fit: cover;
+}
+
+h2{
+    text-align: center;
+}
+
+#jobs {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+h3 {
+    margin-bottom: 8px;
+}
+.location {
+    color: gray;
+}
+
+#footer {
+    background-color:#eee;
+    padding: 16px;
+    margin-top: 32px;
+    text-align: center;
+}
+
+#footer-links {
+    list-style: none;
+}
+
+#footer-links li {
+    display: inline;
+    padding: 16px;
+    cursor: hand;
+}
+
+a{
+    text-decoration: none;
+}
+
+#copyright {
+    color: gray;
+}
+
