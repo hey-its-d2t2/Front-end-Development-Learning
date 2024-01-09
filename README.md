@@ -52,3 +52,16 @@ Day - 5
 <h3>Day - 8<h3></h3><hr>
 
 ![Preview-My-website](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/a325a388-ffe4-4eff-a2d9-bc12068f2ab5)
+
+
+<hr>
+<h3>Day -10<h3></h3><hr>
+<hr>
+<h5>Web view</h5>
+
+  ![Shot-1](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/858c80c8-29c3-4761-b393-f0218ffdd451)
+
+<hr>
+<h5>Mobile view</h5>
+
+![Shot-2](https://github.com/hey-its-d2t2/Front-end-Development-Learning/assets/63626210/edf40ece-5b70-471e-a8a8-8ccae188197c)
