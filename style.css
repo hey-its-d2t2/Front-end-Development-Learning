@@ -121,3 +121,39 @@ span{
     font-size: 0.9rem;
     font-weight: 700;
 }
+/* Hero section */
+.hero-section{
+    background-image: url("images/hero_image.jpg");
+    height: 350px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+.hero-message{
+    background-color: white;
+    color: black;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.85rem;
+    width: 90%;
+    margin-bottom: 25px;
+}
+.hero-message a{
+    color: #007185;
+    text-decoration: none;
+
+}
+/* Shop section */
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #007185;
+}
+.box{
+    border: 1px solid red;
+    height: 400px;
+    width: 23%;
+}
